@@ -12,3 +12,4 @@ Berikut ini adalah Koleksi yang dimiliki:
 8. [The Odyssey](ebook/the-odyssey-homer.pdf) – Homer (8 SM)
 9. [Moby Dick](ebook/moby-dick-herman-melville.pdf) – Herman Melville (1937)
 10. [1984](ebook/9.-Nineteen-Eighty-Four-Author-George-Orwell.pdf) – George Orwell (1996)
+11. [Rangkuman UGC PATI_Rafi Ahmad Akbar(136)](ebook/Rangkuman_UGC_PATI_Rafi_Ahmad_Akbar.pdf) – ThisRafii (1996)
